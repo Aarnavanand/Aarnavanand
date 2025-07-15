@@ -38,7 +38,6 @@ Full-stack developer and ML enthusiast passionate about building AI-powered web 
 - 🌐 Portfolio: [aarnavanand.com](https://www.aarnavanand.com)
 - 📧 Email: [aarnav.anand5@gmail.com](mailto:aarnav.anand5@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/aarnav-anand-aa163728a](https://www.linkedin.com/in/aarnav-anand-aa163728a)
-- 🧑‍💻 GitHub: [github.com/Aarnavanand](https://github.com/Aarnavanand)
 
 ---
 
