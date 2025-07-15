@@ -15,8 +15,12 @@ Full-stack developer and ML enthusiast passionate about building AI-powered web 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud)
 
 ---
 
