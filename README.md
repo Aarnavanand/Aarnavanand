@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profileBanner.png" alt="Aarnav Anand Banner" width="100%" />
-</p>
-
 ### 👋 Hi, I'm Aarnav Anand
 
 Full-stack developer and ML enthusiast passionate about building AI-powered web apps and solving real-world problems with clean, scalable code.
