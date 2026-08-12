@@ -50,7 +50,9 @@
 ### 📊 System diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarnavanand&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF&v=1" alt="GitHub Stats" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aarnavanand&theme=radical&background=0A192F&border=0A192F&ring=FF8A65&fire=FF8A65&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8A65&sideLabels=FF8A65&dates=FFFFFF)](https://github.com/Aarnavanand)
+
 </div>
 
 ---
