@@ -50,7 +50,7 @@
 ### 📊 System diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarnavanand&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarnavanand&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF&v=1" alt="GitHub Stats" />
 </div>
 
 ---
