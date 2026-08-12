@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://aarnavanand.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8A65&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;HELLO,+I'M+AARNAV+ANAND;AI%2FML+ENGINEER+%7C+FULL-STACK+DEVELOPER;BUILDING+INTELLIGENT,+SCALABLE+SYSTEMS" alt="Typing SVG" />
+<a href="https://portfolio-livid-pi-18.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8A65&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;HELLO,+I'M+AARNAV+ANAND;AI%2FML+ENGINEER+%7C+FULL-STACK+DEVELOPER;BUILDING+INTELLIGENT,+SCALABLE+SYSTEMS" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Architecting enterprise-grade software, cloud-first SaaS platforms, and AI-powered systems.</b><br>
-  Merging clean, scalable code with cutting-edge multi-agent AI to solve real-world complexities.
+  <b>Architecting enterprise-grade software, cloud-first SaaS platforms, and AI-powered systems.</b><br>
+  Merging clean, scalable code with cutting-edge multi-agent AI to solve real-world complexities.
 </p>
 
 ---
@@ -40,19 +40,17 @@
 
 ### 🏆 Milestones & achievements
 
-*   🥇 **SRM Ideathon Winner (2023):** Engineered a B2B microservice API infrastructure utilizing Node.js & Docker, resulting in a **30% performance gain**.
-*   🥈 **Innovate Hackathon Runner-Up (2024):** Architected a highly secure authentication system via Next.js & JWT, achieving **99.9% system uptime**.
-*   🌐 **Open source architecture:** Authored **50+ PRs** and maintained **10+ repositories** across React, JS, and Python ecosystems.
-*   🧠 **Technical mentorship:** Guided and trained **20+ emerging developers** in Data Structures, Algorithms, and modern web architectures through hands-on technical workshops.
+*   🥇 **SRM Ideathon Winner (2023):** Engineered a B2B microservice API infrastructure utilizing Node.js & Docker, resulting in a **30% performance gain**.
+*   🥈 **Innovate Hackathon Runner-Up (2024):** Architected a highly secure authentication system via Next.js & JWT, achieving **99.9% system uptime**.
+*   🌐 **Open source architecture:** Authored **50+ PRs** and maintained **10+ repositories** across React, JS, and Python ecosystems.
+*   🧠 **Technical mentorship:** Guided and trained **20+ emerging developers** in Data Structures, Algorithms, and modern web architectures through hands-on technical workshops.
 
 ---
 
 ### 📊 System diagnostics
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle to activate these dynamic stats)*
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarnavanand&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarnavanand&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 ---
@@ -60,9 +58,9 @@
 ### 📡 Establish connection
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Neural_Link-Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=FF8A65)](https://www.aarnavanand.com)
-  [![LinkedIn](https://img.shields.io/badge/Network-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FF8A65)](https://www.linkedin.com/in/aarnav-anand-aa163728a)
-  [![Email](https://img.shields.io/badge/Comm-Email-0A192F?style=for-the-badge&logo=gmail&logoColor=FF8A65)](mailto:aarnav.anand5@gmail.com)
+  
+  [![Portfolio](https://img.shields.io/badge/Neural_Link-Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=FF8A65)](https://portfolio-livid-pi-18.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/Network-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FF8A65)](https://www.linkedin.com/in/aarnav-anand-aa163728a)
+  [![Email](https://img.shields.io/badge/Comm-Email-0A192F?style=for-the-badge&logo=gmail&logoColor=FF8A65)](mailto:aarnav.anand5@gmail.com)
 
 </div>
