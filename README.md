@@ -1,39 +1,68 @@
-### 👋 Hi, I'm Aarnav Anand
+<div align="center">
 
-Full-stack developer and ML enthusiast passionate about building AI-powered web apps and solving real-world problems with clean, scalable code.
+<a href="https://aarnavanand.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8A65&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;HELLO,+I'M+AARNAV+ANAND;AI%2FML+ENGINEER+%7C+FULL-STACK+DEVELOPER;BUILDING+INTELLIGENT,+SCALABLE+SYSTEMS" alt="Typing SVG" />
+</a>
 
----
-
-### 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud)
+<p align="center">
+  <b>Architecting enterprise-grade software, cloud-first SaaS platforms, and AI-powered systems.</b><br>
+  Merging clean, scalable code with cutting-edge multi-agent AI to solve real-world complexities.
+</p>
 
 ---
 
-### 🏆 Achievements
+</div>
 
-- 🥇 **SRM Ideathon Winner (2023):** Built B2B microservice API infra using Node.js & Docker (30% performance gain)  
-- 🥈 **Innovate Hackathon Runner-Up (2024):** Developed secure auth system with Next.js & JWT; 99.9% uptime  
-- 💻 **Open Source Contributor:** 50+ PRs, maintained 10+ repos (React, JS, Python)  
-- 🧑‍🏫 **Technical Mentor:** Trained 20+ juniors in DSA & web dev via hands-on workshops
+### 🛰️ Current trajectory
 
----
-
-### 📫 Let's Connect
-
-- 🌐 Portfolio: [aarnavanand.com](https://www.aarnavanand.com)
-- 📧 Email: [aarnav.anand5@gmail.com](mailto:aarnav.anand5@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aarnav-anand-aa163728a](https://www.linkedin.com/in/aarnav-anand-aa163728a)
+> **Technical leadership:** Directing engineering and design operations as Technical Lead for **TEDx SRMIST**.
+> **System architecture:** Designing high-complexity workflows, clinical trial randomization systems, and secure cloud infrastructures.
+> **Current focus:** Generative AI, AI-assisted development, and automated CI/CD pipelines.
 
 ---
 
+### 💻 Tech stack
+
+<details open>
+<summary><b>Terminal / Core Systems</b></summary>
+<br>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Frontend architecture** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-0A192F?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| **Database & cloud** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **DevOps & tooling** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+</details>
+
+---
+
+### 🏆 Milestones & achievements
+
+*   🥇 **SRM Ideathon Winner (2023):** Engineered a B2B microservice API infrastructure utilizing Node.js & Docker, resulting in a **30% performance gain**.
+*   🥈 **Innovate Hackathon Runner-Up (2024):** Architected a highly secure authentication system via Next.js & JWT, achieving **99.9% system uptime**.
+*   🌐 **Open source architecture:** Authored **50+ PRs** and maintained **10+ repositories** across React, JS, and Python ecosystems.
+*   🧠 **Technical mentorship:** Guided and trained **20+ emerging developers** in Data Structures, Algorithms, and modern web architectures through hands-on technical workshops.
+
+---
+
+### 📊 System diagnostics
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle to activate these dynamic stats)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=FF8A65&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📡 Establish connection
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Neural_Link-Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=FF8A65)](https://www.aarnavanand.com)
+  [![LinkedIn](https://img.shields.io/badge/Network-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FF8A65)](https://www.linkedin.com/in/aarnav-anand-aa163728a)
+  [![Email](https://img.shields.io/badge/Comm-Email-0A192F?style=for-the-badge&logo=gmail&logoColor=FF8A65)](mailto:aarnav.anand5@gmail.com)
+
+</div>
